@@ -22,10 +22,11 @@ Se você também é apaixonado por tecnologia, vamos trocar ideias! 💬
 
 
 
-<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
-  <img height="195px" src="https://github-readme-streak-stats-flame-kappa.vercel.app?user=RhuanSantos135&theme=dracula&mode=weekly" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanSantos135&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 20px;">
+  <img height="170px" src="https://github-readme-streak-stats-flame-kappa.vercel.app?user=RhuanSantos135&theme=dracula&mode=weekly" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanSantos135&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
 </div>
+
 
 
 
